@@ -1,0 +1,58 @@
+header{
+  background-color: #9ea490;
+  height: 250px;
+  width: 100%;
+  margin-bottom: 60px;
+}
+footer{
+  background-color: #283433;
+  height: 200px;
+  width: 100%;
+  margin-top: 60px;
+}
+#woord1{
+  background-color: #fab500;
+  width: 250px;
+}
+#woord2{
+  background-color: #d8a69a;
+  width: 250px;
+}
+#woord3{
+  background-color: #a9c1cf;
+  width: 250px;
+}
+#woord4{
+  background-color: #b5b176;
+  width: 250px;
+}
+#woord5{
+  background-color: #344a55;
+  width: 250px;
+}
+#woord6{
+  background-color: #ac6a49;
+  width: 250px;
+}
+#woord7{
+  background-color: #9ea490;
+  width: 250px;
+}
+#woord8{
+  background-color: #25344a55;
+  width: 250px;
+}
+img{
+  width: 250px;
+  height: 250px;
+}
+#image1{
+  height: 3px;
+}
+#image5{
+  height: 3px;
+}
+table{
+  height: 1000px;
+  text-align: center;
+}
